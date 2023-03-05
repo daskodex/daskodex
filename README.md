@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hello, I’m Vladimir Dorofeev, Python backend-developer
+💬 Language: Russian, English
+⭐️ Python, REST API, Flask, Pandas, Django ORM, Django REST Framework, SQL, PostgreSQL, Unittest
+💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux, GitHub Actions, WSGI
+📫 Contact me: t.me/daskodex or daskodex@gmail.com
 
 <!--
 **daskodex/daskodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
