@@ -1,6 +1,6 @@
 👋 Hello, I’m Vladimir Dorofeev, Python backend-developer
 
-💬 Language: Russian, English
+💬 Language: Russian, English, Germany, Czech
 
 ⭐️ Python, REST API, Celery, Pandas, Django ORM, Django REST Framework, SQL, PostgreSQL, Unittest
 
