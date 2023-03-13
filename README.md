@@ -2,7 +2,7 @@
 
 💬 Language: Russian, English
 
-⭐️ Python, REST API, Flask, Pandas, Django ORM, Django REST Framework, SQL, PostgreSQL, Unittest
+⭐️ Python, REST API, Celery, Pandas, Django ORM, Django REST Framework, SQL, PostgreSQL, Unittest
 
 💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux, GitHub Actions, WSGI
 
