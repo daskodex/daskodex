@@ -4,7 +4,7 @@
 
 ⭐️ Python, REST API, Celery, Pandas, Django ORM, Django REST Framework, SQL, PostgreSQL, Unittest
 
-💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux, GitHub Actions, WSGI
+💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux \ Ubuntu, GitHub Actions, WSGI
 
 🌱 In progress: FastAPI, MongoDB, CI/CD, React
 
