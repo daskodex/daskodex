@@ -6,7 +6,7 @@
 
 💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux \ Ubuntu, GitHub Actions, WSGI
 
-🌱 In progress: FastAPI, MongoDB, CI/CD, React
+🌱 In progress: FastAPI, MongoDB, CI/CD, React, ClickHouse
 
 📫 Contact me: t.me/daskodex or daskodex@gmail.com
 
