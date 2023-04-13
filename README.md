@@ -4,9 +4,9 @@
 
 ⭐️ Python, REST API, Celery, Pandas, Django ORM, Django REST Framework, SQL, PostgreSQL, Unittest
 
-💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux \ Ubuntu, GitHub Actions, WSGI
+💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux \ Ubuntu, WSGI
 
-🌱 In progress: FastAPI, MongoDB, CI/CD, React, ClickHouse
+🌱 In progress: FastAPI, MongoDB, CI/CD, React, ClickHouse, GitHub Actions, AirFlow
 
 📫 Contact me: t.me/daskodex or daskodex@gmail.com
 
