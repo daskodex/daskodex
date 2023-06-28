@@ -1,12 +1,10 @@
 👋 Hello, I’m Vladimir Dorofeev, Python backend-developer
 
-💬 Language: Russian, English, Germany, Czech
+💬 Language: Russian, English
 
 ⭐️ Python, REST API, Celery, Pandas, Django ORM, Django REST Framework, SQL, PostgreSQL, Unittest
 
-💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux \ Ubuntu, WSGI
-
-🌱 In progress: FastAPI, MongoDB, CI/CD, React, ClickHouse, GitHub Actions, AirFlow
+💻 GIT, Docker, Docker-Compose, Celery, Redis, Ubuntu
 
 📫 Contact me: t.me/daskodex or daskodex@gmail.com
 
